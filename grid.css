@@ -1,0 +1,13 @@
+.grid-container{
+    display: grid;
+    gap: 10px 10px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 6fr;
+}
+.grid{
+    background-color: #2d2d2d;
+    color: #eee;
+    padding: 1rem;
+    border-radius: 10px;
+
+}
